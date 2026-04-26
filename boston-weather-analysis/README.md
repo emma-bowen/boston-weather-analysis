@@ -11,6 +11,7 @@ How does the average temperature and precipitation vary in March in Boston in 20
 
 ## Project Files
 boston-weather-analysis/boston-weather-analysis.ipynb
+boston-weather-analysis/precipitation_march.png
 
 ## Python Packages
 - `pandas`
