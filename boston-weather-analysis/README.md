@@ -12,6 +12,7 @@ How does the average temperature and precipitation vary in March in Boston in 20
 ## Project Files
 boston-weather-analysis/boston-weather-analysis.ipynb
 boston-weather-analysis/precipitation_march.png
+boston-weather-analysis/temperature_march.png
 
 ## Python Packages
 - `pandas`
@@ -29,7 +30,8 @@ boston-weather-analysis/precipitation_march.png
   8. Compare the averages from 2013 and 2022 by plotting the results
 
 ## Summary
-
+In March 2013, Boston averaged a lower maximum air temperature (6.18°C) and greater precipitation (4.37 mm) than in March 2022, which had both a warmer average maximum air temperature (10.1°C) and lower precipitation (2.49 mm).
+While more research would be needed to study weather patterns within this region, these results raise the question of how climate change has affected areas that historically received more rain and colder weather, as the almost 10-year difference reflects significant changes, including increased average maximum temperatures and decreased average precipitation.
 
 ## References
 *Boston (MA) Monthly Rainfall & Precipitation*. (2026). Weather and Climate. https://weather-and-climate.com/average-monthly-precipitation-Rainfall,Boston,United-States-of-America
