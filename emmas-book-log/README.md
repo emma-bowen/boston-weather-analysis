@@ -10,6 +10,7 @@ As I continue to read more books in 2026, I plan to come back to this CSV file a
 
 ## Project Files
 emmas-book-log/book-log-data.py
+emmas-book-log/book-log-data.csv
 
 ## Python Packages
 `Pandas`
