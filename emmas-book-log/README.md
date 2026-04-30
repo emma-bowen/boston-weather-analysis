@@ -9,6 +9,7 @@ As I continue to read more books in 2026, I plan to come back to this CSV file a
 - The data file, *book-log-data.csv* was created by me and contains information regarding the books I've read, such as `Title`, `Author`, `Month_Read`, and `Personal_Rating`.
 
 ## Project Files
+emmas-book-log/book-log-data.py
 
 ## Python Packages
 `Pandas`
