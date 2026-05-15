@@ -51,6 +51,6 @@ While more research would be needed to study weather patterns within this region
 ## References
 *Boston (MA) Monthly Rainfall & Precipitation*. (2026). Weather and Climate. https://weather-and-climate.com/average-monthly-precipitation-Rainfall,Boston,United-States-of-America  
 Hunter, J. D. (2007). Matplotlib: A 2D graphics environment. *Computing in Science & Engineering, 9*(3), 90-95. 10.1109/MCSE.2007.55  
-Meher, S. (2023). Boston Weather 2013-2023. Kaggle. https://www.kaggle.com/datasets/swaroopmeher/boston-weather-2013-2023  
+Meher, S. (2023). *Boston Weather 2013-2023*. Kaggle. https://www.kaggle.com/datasets/swaroopmeher/boston-weather-2013-2023  
 The pandas development team. (2026). pandas-dev/pandas: Pandas (v3.0.3). Zenodo. https://doi.org/10.5281/zenodo.20127038  
 Waskom, M. L., (2021). seaborn: statistical data visualization. *Journal of Open Source Software, 6*(60), 3021, https://doi.org/10.21105/joss.03021
