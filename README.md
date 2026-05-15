@@ -42,8 +42,8 @@ This Python project addresses how average temperature and precipitation varies i
   8. Compare the averages from 2013 and 2022 by plotting the results
 
 ## Results
-In March 2013, Boston averaged a lower maximum air temperature (6.18°C) and greater precipitation (4.37 mm) than in March 2022, which had both a warmer average maximum air temperature (10.1°C) and lower precipitation (2.49 mm).
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/8346fcc6-f497-427e-8b03-5ef3a3432965" />
+In March 2013, Boston averaged a lower maximum air temperature (6.18°C) and greater precipitation (4.37 mm) than in March 2022, which had both a warmer average maximum air temperature (10.1°C) and lower precipitation (2.49 mm).  
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/8346fcc6-f497-427e-8b03-5ef3a3432965" />  
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/56f2bacc-828b-4137-81ae-6b9c753c895f" />
 
 ## Summary
