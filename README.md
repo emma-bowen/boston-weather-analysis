@@ -21,7 +21,7 @@ This Python project addresses how average temperature and precipitation varies i
 - **Full Citation**: Meher, S. (2023). *Boston Weather 2013-2023*. Kaggle. https://www.kaggle.com/datasets/swaroopmeher/boston-weather-2013-2023
 
 ## Project Files
-- [boston-weather-analysis.ipynb](#boston-weather-analysis.ipynb)   
+- [boston-weather-analysis.ipynb](boston-weather-analysis.ipynb)   
 boston-weather-analysis/precipitation_march.png   
 boston-weather-analysis/temperature_march.png
 
