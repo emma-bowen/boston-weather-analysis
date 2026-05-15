@@ -5,6 +5,7 @@ By Emma Bowen
 - [Project Overview](#project-overview)
 - [Data Source and Information](#data-source-and-information)
 - [Project Files](#project-files)
+- [Required Python Packages](#required-python-packages)
 
 ## Project Overview
 This Python project addresses how average temperature and precipitation varies in Boston in March 2013 and March 2022 through the analysis of the *Boston Weather 2013-2023* dataset (Meher, 2023). This project includes the final jupyter notebook and corresponding plots derived from this research, which utilize the Python packages `pandas`, `seaborn`, and `matplotlib`. This Python project showcases my ability to pipeline functions, clean/filter data, and create effective visualizations.
@@ -20,20 +21,24 @@ This Python project addresses how average temperature and precipitation varies i
 boston-weather-analysis/precipitation_march.png   
 boston-weather-analysis/temperature_march.png
 
-## Python Packages
+## Required Python Packages
 - `pandas`
 - `seaborn`
 - `matplotlib`
 
 ## Pipeline Overview
   1. Import the CSV file
-  2. Clean the data to remove NA and duplicate values
-  3. Print summary statistics
-  4. Convert the time column and extract years, months, and days
-  5. Filter and save only March weather in 2013 as a new variable
-  6. Filter and save only March weather in 2022 as a new variable
-  7. Calculate average temperature and precipitation for filtered data variables
-  8. Compare the averages from 2013 and 2022 by plotting the results
+``def import_data():
+    """This function imports the CSV file into a pandas DataFrame."""
+    boston_data = pd.read_csv("boston_weather_data.csv")
+    return boston_data``
+  3. Clean the data to remove NA and duplicate values
+  4. Print summary statistics
+  5. Convert the time column and extract years, months, and days
+  6. Filter and save only March weather in 2013 as a new variable
+  7. Filter and save only March weather in 2022 as a new variable
+  8. Calculate average temperature and precipitation for filtered data variables
+  9. Compare the averages from 2013 and 2022 by plotting the results
 
 ## Summary
 In March 2013, Boston averaged a lower maximum air temperature (6.18°C) and greater precipitation (4.37 mm) than in March 2022, which had both a warmer average maximum air temperature (10.1°C) and lower precipitation (2.49 mm).
