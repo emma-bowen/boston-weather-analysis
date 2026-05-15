@@ -22,8 +22,8 @@ This Python project addresses how average temperature and precipitation varies i
 
 ## Project Files
 - [boston-weather-analysis.ipynb](boston-weather-analysis.ipynb)   
-boston-weather-analysis/precipitation_march.png   
-boston-weather-analysis/temperature_march.png
+- [precipitation_march.png](precipitation_march.png)
+- [temperature_march.png](temperature_march.png)
 
 ## Required Python Packages
 - `pandas`
