@@ -1,6 +1,9 @@
-# Analyzing Boston Weather Data from 2013 and 2022
+# Analyzing Boston Weather Data from 2013 and 2022 through Python Functions
 
-## Description
+## Table of Contents
+[Project Overview](#project-overview)
+
+## Project Overview
 How do the average temperature and precipitation vary in March in Boston in 2013 and 2022? This Python project addresses this research question through the analysis of the  Boston Weather 2013-2023 dataset (Meher, 2023). This folder contains the final notebook and corresponding plots derived from this research, which utilize the Python packages pandas, seaborn, and matplotlib. This Python project showcases my ability to pipeline functions, clean/filter data, and create effective visualizations.
 
 ## Data Source and Information
