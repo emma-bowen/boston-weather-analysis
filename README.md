@@ -10,6 +10,7 @@ By Emma Bowen
 - [Results](#results)
 - [Summary](#summary)
 - [References](#references)
+- [About the Author](#about-the-author)
 
 ## Project Overview
 This Python project addresses how average temperature and precipitation varies in Boston in March 2013 and March 2022 through the analysis of the *Boston Weather 2013-2023* dataset (Meher, 2023). This project includes the final jupyter notebook and corresponding plots derived from this research, which utilize the Python packages `pandas`, `seaborn`, and `matplotlib`. This Python project showcases my ability to pipeline functions, clean/filter data, and create effective visualizations.
@@ -54,3 +55,8 @@ Hunter, J. D. (2007). Matplotlib: A 2D graphics environment. *Computing in Scien
 Meher, S. (2023). *Boston Weather 2013-2023*. Kaggle. https://www.kaggle.com/datasets/swaroopmeher/boston-weather-2013-2023  
 The pandas development team. (2026). pandas-dev/pandas: Pandas (v3.0.3). Zenodo. https://doi.org/10.5281/zenodo.20127038  
 Waskom, M. L., (2021). seaborn: statistical data visualization. *Journal of Open Source Software, 6*(60), 3021, https://doi.org/10.21105/joss.03021
+
+## About the Author
+Hi! My name is Emma Bowen and I am an online master's student studying Computational Life Science at Arizona State University, expected to graduate Fall 2026. Previously, I recieved my B.S. from Oregon State University majoring in Biology and minoring in Chemistry. I then worked for two years for Kforce Inc at Hewlett-Packard in Corvallis, Oregon as a Chemical Technician V for an ink development laboratory. I have a passion for biology, genomics, bioinformatics, and data analysis/visualization. This passion inspired me to continue my education and dive deeper into computational life sciences. As I have developed new skills through my master's program, I began to complete my own personal data analysis, visualization, and pipeline projects that are presented here on my GitHub. I have branched out and learned new programming languages and querying, including R, Python, Linux CLI, and SQL. If you would like to contact me, here is my information:  
+email: emmabowen05@gmail.com  
+linkedin: https://www.linkedin.com/in/emma-bowen-0628aa274/  
